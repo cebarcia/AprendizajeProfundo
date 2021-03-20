@@ -1,4 +1,4 @@
-# AprendizajeProfundo
+# Practico 1 - Aprendizaje Profundo
 
 ## Performance obtenido 
 
