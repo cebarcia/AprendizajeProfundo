@@ -1,0 +1,15 @@
+artifact_uri: file:///users/cbarcia/diplo/AprendizajeProfundo/mlruns/1/632ced27dbdb4e92a6b27c4ee6cd994a/artifacts
+end_time: 1616182282397
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 632ced27dbdb4e92a6b27c4ee6cd994a
+run_uuid: 632ced27dbdb4e92a6b27c4ee6cd994a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1616180941792
+status: 3
+tags: []
+user_id: cbarcia
